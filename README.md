@@ -22,8 +22,8 @@ This JSON file contains your submissions details. The schema of this JSON file:
 {
     "problem_identifier": [
         {
-            "language": "string", //language of the the code
-            "plain_text_code": "string", // code in plain_text
+            "language": "string",
+            "plain_text_code": "string",
         }
     ]
 }
